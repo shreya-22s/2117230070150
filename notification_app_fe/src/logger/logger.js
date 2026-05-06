@@ -30,3 +30,4 @@ async function Log(stack, level, packageName, message) {
 }
 
 export default Log;
+
